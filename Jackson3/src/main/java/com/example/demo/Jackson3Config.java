@@ -1,4 +1,4 @@
-package com.example.demo;
+/*package com.example.demo;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpInputMessage;
@@ -48,3 +48,4 @@ public class Jackson3Config implements WebMvcConfigurer {
         });
     }
 }
+*/
